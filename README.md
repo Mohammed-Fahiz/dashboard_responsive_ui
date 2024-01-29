@@ -1,6 +1,6 @@
 # responsive_dashboard_ui
-
-A new Flutter project.
+Flutter Responsive UI: A repository showcasing responsive Flutter UI designs optimized for seamless display across various devices, from mobile to desktop.
+https://github.com/Mohammed-Fahiz/dashboard_responsive_ui/assets/138813355/373dd249-6119-413e-96c8-852ed2b0db0d
 
 ## Getting Started
 
