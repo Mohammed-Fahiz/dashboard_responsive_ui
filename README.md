@@ -1,5 +1,5 @@
 # responsive_dashboard_ui
-<h1 align="center">Flutter Responsive UI</h1>
+<h1 align="left">Flutter Responsive UI</h1>
 <p align="center">A repository showcasing responsive Flutter UI designs optimized for seamless display across various devices, from mobile to desktop.</p>
 
 ![respnsive_dashboard](https://github.com/Mohammed-Fahiz/dashboard_responsive_ui/assets/138813355/19d32b1a-fdc8-4efe-91cf-c1b10b3e2459)
